@@ -22,3 +22,7 @@
 * 구글 맵 API 활용을 통해 투표할 수 있는 장소가 어디인지 알려줌 
 * Responsive Web Design 
 * 관리자 페이지
+
+## 메인 페이지
+![main](https://user-images.githubusercontent.com/37537208/116001233-68175c80-a62e-11eb-9122-36b611b41bef.png)
+
